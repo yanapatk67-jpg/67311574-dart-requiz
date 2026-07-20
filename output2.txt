@@ -1,4 +1,3 @@
-
 Connecting to VM Service at ws://127.0.0.1:61349/wznfbYDCTp0=/ws
 Connected to the VM Service.
 ลาเต้ - 65.0 บาท
